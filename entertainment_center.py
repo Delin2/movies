@@ -38,3 +38,4 @@ fullmetal_alchemist_brotherhood = media.Movie("Fullmetal Alchemist: Brotherhood"
 
 movies = [toy_story, titanic, kung_fu_hustle, avatar, kimi_no_na_wa, fullmetal_alchemist_brotherhood]
 fresh_tomatoes.open_movies_page(movies)
+print(media.Movie.VALID_RATINGS)
